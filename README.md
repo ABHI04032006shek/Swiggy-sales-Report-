@@ -4,19 +4,9 @@
 
 | Executive Dashboard |
 |---------------------|
-| ![Dashboard](Images/dashboard.png) |
+| ![Dashboard](Images/Dashboard.png) |
 
 ---
-
-## 📋 Project Requirements
-
-### Requirement 1: Revenue Trend Analysis
-
-The business wants to understand revenue performance over time to identify seasonal trends and forecast future demand.
-
-| Revenue Analysis Dashboard |
-|----------------------------|
-| ![Revenue Analysis](Images/revenue_analysis.png) |
 
 ### Insights
 - Identified monthly revenue trends.
@@ -26,13 +16,7 @@ The business wants to understand revenue performance over time to identify seaso
 
 ---
 
-### Requirement 2: Customer & Restaurant Analysis
 
-The business wants to understand customer preferences and restaurant performance across cities and states.
-
-| Customer & Restaurant Dashboard |
-|--------------------------------|
-| ![Customer Analysis](Images/customer_restaurant_analysis.png) |
 
 ### Insights
 - Top-performing restaurants identified.
